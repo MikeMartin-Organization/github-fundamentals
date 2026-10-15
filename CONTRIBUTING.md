@@ -1,5 +1,8 @@
 # Contribution Guidelines
 
-1. Create a feature branch
+
+1. Care a feature branch
 2. Make focused commits
-3. Review others' code
+3. submit pull requests
+4. Review others' code
+
